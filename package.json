@@ -1,0 +1,19 @@
+{
+  "name": "umitable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^2.1.1",
+    "antd": "^4.0.0-alpha.9",
+    "umi": "^2.12.2",
+    "umi-plugin-react": "^1.14.5"
+  }
+}
