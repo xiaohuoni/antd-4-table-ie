@@ -1,10 +1,11 @@
 export default {
-    targets: {
-        ie: 11,
-      },
-    plugins: [
-      ['umi-plugin-react', {
-        antd: true,
-      }],
-    ],
-  };
+  targets: {
+    ie: 11,
+  },
+  history: 'hash',
+  plugins: [
+    ['umi-plugin-react', {
+      antd: true,
+    }],
+  ],
+};
